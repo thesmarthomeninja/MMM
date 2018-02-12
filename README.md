@@ -2,10 +2,12 @@ Source: http://datafeedtoolbox.com/marketing-mix-model-for-all-using-r-for-mmm/
 
 <img src="http://datafeedtoolbox.com/wp-content/uploads/2017/05/750x410xAdobeStock_11334173-750x410.jpeg.pagespeed.ic.GNnNrv2nge.webp">
 
+Do you want to know how much you need to spend vs how much revenue you will get back with your advertising campaigns?  i.e. shopping or search campaigns at a high level for a specific period of time?  
 
 Marketing Mix Model for All: Using R for MMM
 June 1, 2017  Credit Goes To: Jessica Langford  Machine Learning, Optimization, R, Statistics
 Understanding the ROI across all of your paid marketing channels is a top priority for senior-level executives across every industry and every geographical market.  Getting a clear sense of the ROI on each channel allows companies to answer really important questions.  For example:
+
 <img src="http://datafeedtoolbox.com/wp-content/uploads/2017/05/dataAndModelFit-300x223.jpg">
 
 What will happen if I increase my Email spend by 20%?
