@@ -15,4 +15,4 @@ These are consequential questions that have the potential to have a major impact
 
 Once you have downloaded your CSV file in the format listed in the article that this script was sourced from...  Then you want to basically follow the steps in the article and go ahead and grab the full script in MMMv1 file rather than copy and pasting all of it.  There are customizations you can add to the parameters within the script so pay close attention to the article.  Happy Scripting you R Ninja you.
 
-
+<img src="http://datafeedtoolbox.com/wp-content/uploads/2017/05/barPlot-300x232.jpg">
